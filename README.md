@@ -60,13 +60,21 @@ A full-stack travel web application that allows users to explore and manage trav
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vivek7057&show_icons=true&theme=tokyonight" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek7057&layout=compact&theme=tokyonight" height="180"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivek7057&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek7057&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-🔥 GitHub Streak
+---
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Vivek7057&theme=tokyonight" /> </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vivek7057&theme=tokyonight" height="180"/>
+</p>
+
 
 📫 Connect With Me
 

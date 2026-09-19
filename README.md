@@ -1,4 +1,4 @@
-## Vivek Jadhav | Full Stack Developer
+### Vivek Jadhav | Full Stack Developer
 ## 👋 Professional Profile
 
 A results-driven **Full Stack Developer and AI Enthusiast** with hands-on experience building modern web applications and AI-powered solutions. Skilled in **React.js, Next.js, TypeScript, JavaScript, Node.js, FastAPI, MongoDB, PostgreSQL, and SQL**, with a strong foundation in **Data Structures & Algorithms and Generative AI**.

@@ -8,7 +8,7 @@ I enjoy developing scalable applications, designing RESTful APIs, integrating da
 ---
 ## 👨‍💻 About Me
 
-* 🎓 **BE Graduate** in Information Technology
+* 🎓 **B.Tech Graduate** in Information Technology
 * 💻 **Full Stack Developer** passionate about building modern web applications
 * 🤖 Interested in **Generative AI, RAG & LLM-powered applications**
 * 🌱 Currently strengthening my skills in **DSA, System Design & Backend Development**

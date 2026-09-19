@@ -6,13 +6,16 @@ A results-driven **Full Stack Developer and AI Enthusiast** with hands-on experi
 I enjoy developing scalable applications, designing RESTful APIs, integrating databases, and building intelligent features using **RAG, LLMs, and AI APIs**. I focus on writing clean, maintainable code and turning real-world problems into practical software solutions.
 
 ---
-👨‍💻 About Me
-🎓 BE Graduate
-💻 Full Stack Developer
-🤖 Interested in Generative AI & RAG
-🌱 Currently improving my skills in DSA, System Design & Backend Development
-🔍 Looking for opportunities as a Full Stack / Frontend / Software Developer
-📍 Pune, India
+## 👨‍💻 About Me
+
+* 🎓 **BE Graduate** in Information Technology
+* 💻 **Full Stack Developer** passionate about building modern web applications
+* 🤖 Interested in **Generative AI, RAG & LLM-powered applications**
+* 🌱 Currently strengthening my skills in **DSA, System Design & Backend Development**
+* 🚀 Experienced with **React.js, Next.js, TypeScript, Node.js, FastAPI & MongoDB**
+* 🔍 Open to opportunities in **Full Stack, Frontend & Software Development**
+* 📍 **Pune, India**
+
 ---
 
 ## 🚀 Featured Projects
